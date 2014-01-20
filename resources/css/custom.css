@@ -1,0 +1,8 @@
+div.section-terms-container{
+	background: red;
+}
+
+div.section-terms-container div.section-terms-item,
+div.section-terms-item{
+	background: blue;
+}
